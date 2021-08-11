@@ -1,0 +1,41 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+.g-bg{
+  background-color:#33cc66;
+}
+.pl-0{
+  padding-left:0px !important;
+}
+.pr-0{
+  padding-right:0px !important;
+}
+.navigation{
+  width:256px;
+  height: 100vh;
+  border-right: 1px solid rgba(0,0,0,.12);
+}
+.logo-sec img{
+  width: 50px;
+  max-width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.user_nm{
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  font-size: 19px;
+  line-height: 24px;
+}
+.t_sec{
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 13px;
+}
+.nav-head{
+  padding: 5px 10px;
+  border-radius: 0px;
+  color: rgb(250, 250, 250);
+  margin-bottom: 5px;
+}
